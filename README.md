@@ -5,6 +5,7 @@ Author: Ronaldo Lisot
 
 ## Project builded with:
 * C#
+* REST Api
 * JWT for Authentication / Authorization
 * Domain Driven Design
 * MediatR and CQRS
